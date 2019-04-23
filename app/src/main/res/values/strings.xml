@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GetShredded</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="exercise">Exercise</string>
+    <string name="day">Day</string>
+    <string name="new_workout_plan">New Workout Plan</string>
+    <string name="new_day">New Day</string>
+    <string name="new_exercise">New Exercise</string>
+
+    <string-array name="workout_category_items">
+        <item>One week</item>
+        <item>Two week</item>
+    </string-array>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="exercise_category_items">
+        <item>Quadriceps</item>
+        <item>Hamstrings</item>
+        <item>Calves</item>
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Shoulders</item>
+        <item>Triceps</item>
+        <item>Biceps</item>
+        <item>Forearms</item>
+        <item>Trapezius</item>
+        <item>Abs</item>
+    </string-array>
+    <string name="title_activity_day">DayActivity</string>
+    <string name="title_activity_exercise">ExerciseActivity</string>
+    <string name="sets">Sets</string>
+    <string name="reps">Repetitions</string>
+    <string name="toggle_week">Toggle week</string>
+    <string name="send_to">Send To</string>
+</resources>
+
